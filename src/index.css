@@ -1,0 +1,63 @@
+
+.contact h1{
+  height:50px;
+  text-align:center;
+  background-color: rgb(134, 187, 187);
+}
+.contact-list table{
+  width:100%;
+  background-color:rgb(53, 170, 209);
+}
+.contact-list table th{
+  /* float:right; */
+  text-align:start;
+}
+.contact-list table .img{
+  text-align:start;
+  padding-left: 40px;
+}
+.contact-list .email{
+  text-align:center;
+  padding:20px;
+
+}
+.contact-list  .update, .phone{
+  text-align:center;
+  padding:10px;
+}
+.edit{
+ 
+  text-align:center;
+  margin:3px;
+}
+.search-bar{
+  width:50%;
+margin:10px;
+padding:2px;;
+}
+.pop-up {  
+  position: fixed;  
+  width: 35%;  
+  height: 35%;  
+  top: -20%;  
+  left: 0;  
+  right: 0;  
+  bottom: 0;  
+  margin: auto;  
+  /* background-color: rgb(85, 85, 136);  */
+  background-image: url("con.jpeg"); 
+}  
+.form-modal  span{
+font-size:15px;
+color: white;
+margin:5px; 
+padding-right:3px;
+}
+.form-modal div {
+  margin:10px;
+  margin-left: 1px;
+}
+.image img {
+  width:100px;
+  height:100px;
+}
